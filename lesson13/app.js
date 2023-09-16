@@ -1,7 +1,7 @@
 console.log('Вася'|| 'Олег');
-console.log(false|| 'Олег');
+console.log(false || 'Олег');
 console.log('Вася'|| false);
-console.log(false|| false);
+console.log(false || false);
 
 console.log('Вася' && 'Олег');
 console.log(false && 'Олег');
